@@ -10,3 +10,5 @@ untuk menjalankannya
 5. php artisan config:cache
 6. localhost/quickcount
 Terimakasih
+
+![alt text](https://github.com/mnimmdman/ari/blob/master/rea.jpg)
